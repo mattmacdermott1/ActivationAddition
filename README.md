@@ -1,5 +1,4 @@
-A replication of some of the experiments from [Steering Llama 2 via Contrastive Activation Addition](https://arxiv.org/abs/2312.06681v2) by Rimsky et al. (2023), with GPT-J and Llama 2, using [nnsight](https://nnsight.net/about/).
-
+A replication of some of the experiments from [Steering Llama 2 via Contrastive Activation Addition](https://arxiv.org/abs/2312.06681v2) by Rimsky et al. (2023), with GPT-J and Llama 2, using [nnsight](https://nnsight.net/about/). Replication by Matt MacDermott and Michelle Viotti.
 
 **Colab links:**
 
